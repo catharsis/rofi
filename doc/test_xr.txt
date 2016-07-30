@@ -208,13 +208,25 @@ rofi.kb-custom-18:                   Alt+Shift+8
 rofi.kb-custom-19:                   Alt+Shift+9
 ! The display name of this browser
 rofi.display-ssh:                     
+! The display close of this browser
+rofi.display-close-ssh:              
 ! The display name of this browser
 rofi.display-run:                     
+! The display close of this browser
+rofi.display-close-run:              
 ! The display name of this browser
 rofi.display-drun:                    
+! The display close of this browser
+rofi.display-close-drun:             
 ! The display name of this browser
 rofi.display-window:                  
+! The display close of this browser
+rofi.display-close-window:           
 ! The display name of this browser
 rofi.display-windowcd:               windowcd
+! The display close of this browser
+rofi.display-close-windowcd:         
 ! The display name of this browser
 rofi.display-combi:                  combi
+! The display close of this browser
+rofi.display-close-combi:            
